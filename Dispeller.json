@@ -1,12 +1,21 @@
-{
-  "Author": "pupwife",
-  "Name": "Dispeller",
-  "InternalName": "Dispeller",
-  "AssemblyVersion": "1.2",
-  "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
-  "Punchline": "Easily clean out your Glamour Dresser.",
-  "ApplicableVersion": "any",
-  "Tags": ["glamour", "dresser", "models", "fashion", "cute", "utility"],
-  "IsHide": "False",
-  "IsTestingExclusive": "False"
-}
+[
+  {
+    Author: 'KaiTinkerer',
+    Name: 'DispellerTest',
+    Description: 'A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.',
+    InternalName: 'DispellerTest',
+    AssemblyVersion: '1.2.0.0',
+    TestingAssemblyVersion: null,
+    RepoUrl: 'https://github.com/Kai-The-Tinkerer/DispellerPluginTest',
+    ApplicableVersion: 'any',
+    DalamudApiLevel: 10,
+    Punchline: 'Easily clean out your Glamour Dresser.',
+    Tags: ["glamour", "dresser", "models", "fashion", "cute", "utility"],
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://github.com/Kai-The-Tinkerer/DispellerPluginTest/releases/download/test/release.zip',
+    DownloadLinkTesting: 'https://github.com/Kai-The-Tinkerer/DispellerPluginTest/releases/download/test/release.zip',
+    DownloadLinkUpdate: 'https://github.com/Kai-The-Tinkerer/DispellerPluginTest/releases/download/test/release.zip',
+    LastUpdate: '1701231234',
+  },
+]
